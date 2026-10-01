@@ -1,0 +1,15 @@
+{
+  "max_new_tokens": 8096,
+  "temperature": 1.0,
+  "top_p": 1.0,
+  "top_k": -1,
+  "do_sample": true,
+  "seed": 42,
+  "eos_token_id": [
+    151643,
+    151645
+  ],
+  "pad_token_id": 151643,
+  "chat_template_kwargs": {},
+  "generation_batch_size": 2
+}

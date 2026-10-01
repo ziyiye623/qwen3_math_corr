@@ -1,0 +1,2 @@
+checkpoint_step,total_sample_count,nontruncated_sample_count,truncated_sample_count,mean_response_length,median_response_length,max_response_length,clip_ratio,eos_stop_ratio,mean_reward,mean_reward_truncated,mean_reward_nontruncated,reward_variance,zero_reward_variance_prompt_count,zero_reward_variance_prompt_ratio,runtime_seconds,peak_memory_gib
+0,1024,832,192,4436.5546875,3801.5,8096,0.1875,0.8125,0.8154296875,0.19270833333333334,0.9591346153846154,0.15050411224365234,22,0.6875,49046.95077252388,25.109422206878662

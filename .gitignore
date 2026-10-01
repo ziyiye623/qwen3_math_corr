@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+wandb/
+*.log
+*.tar.gz
+*.bak
+*.bak_*
+
+merged_checkpoints/
+checkpoint*/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Large raw diagnostic samples
+step_*/diagnostics/raw_score_norm_samples.csv

@@ -1,0 +1,9 @@
+checkpoint_step,prompt_id,source_index,test,prompt_value,sample_scope,pearson_corr,pearson_pvalue,num_samples,reward_mean,reward_std,length_mean,length_std,score_mean,score_std,is_valid,invalid_reason
+50,0,5238,Z_L,0.0,all,nan,nan,2,0.0,0.0,4588.5,721.5,85514628.0,16225524.0,False,too_few_samples
+50,0,5238,A_Z,0.0,all,nan,nan,2,0.0,0.0,4588.5,721.5,85514628.0,16225524.0,False,too_few_samples
+50,0,5238,A_L,0.0,all,nan,nan,2,0.0,0.0,4588.5,721.5,85514628.0,16225524.0,False,too_few_samples
+50,0,5238,A_Z_given_L_linear,0.0,all,nan,nan,2,0.0,0.0,4588.5,721.5,85514628.0,16225524.0,False,too_few_samples
+50,1,912,Z_L,1.0,all,nan,nan,2,1.0,0.0,1639.0,270.0,40049510.0,6659574.0,False,too_few_samples
+50,1,912,A_Z,1.0,all,nan,nan,2,1.0,0.0,1639.0,270.0,40049510.0,6659574.0,False,too_few_samples
+50,1,912,A_L,1.0,all,nan,nan,2,1.0,0.0,1639.0,270.0,40049510.0,6659574.0,False,too_few_samples
+50,1,912,A_Z_given_L_linear,1.0,all,nan,nan,2,1.0,0.0,1639.0,270.0,40049510.0,6659574.0,False,too_few_samples

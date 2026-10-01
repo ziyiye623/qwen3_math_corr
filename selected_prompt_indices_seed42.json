@@ -1,0 +1,42 @@
+{
+  "seed": 42,
+  "num_prompts": 32,
+  "dataset_path": "/mdr5/aifin/users/zhouhongyi/projects/verl_grpo_math_artifacts/data/math/train.parquet",
+  "selected_indices": [
+    5238,
+    912,
+    204,
+    6074,
+    2253,
+    2006,
+    1828,
+    1143,
+    6033,
+    839,
+    5543,
+    6067,
+    7308,
+    4467,
+    712,
+    4837,
+    3456,
+    260,
+    244,
+    767,
+    1791,
+    1905,
+    4139,
+    4931,
+    217,
+    4597,
+    1628,
+    5865,
+    5323,
+    5745,
+    4464,
+    3436
+  ],
+  "data_source_counts": {
+    "DigitalLearningGmbH/MATH-lighteval": 32
+  }
+}
